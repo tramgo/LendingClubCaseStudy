@@ -1,52 +1,27 @@
-# Project Name
-> Lending Club case Study.
-
+# Loan Data Analysis
+> This repository contains an analysis of loan data with the aim of identifying factors that influence loan default rates. The analysis includes data cleaning, univariate and bivariate statistical methods to explore the relationships between various loan attributes and the likelihood of default.
 
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
-
-<!-- You can include any other section that is pertinent to your problem -->
+* [Contact](#contact)
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- This project involves a case study of loan data from the Lending Club to identify factors that contribute to the risk of loan default.
+- The background involves understanding the financial factors that can predict the risk associated with lending money to individuals.
+- The business problem addressed by this project is the identification of patterns and correlations that can inform lending decisions and risk assessment.
+- The dataset used comprises loan data including loan amounts, interest rates, employment length, and other financial attributes of borrowers.
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
+The analysis indicates that while no single factor predicts default, a combination of high loan amounts, higher interest rates, longer loan terms, higher credit utilization, and a history of delinquency are associated with higher default rates. These insights can help refine risk assessment and loan approval processes.
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+- Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
+- This project was inspired by real-world financial analytics scenarios.
 
 ## Contact
 Created by [@tramgo] - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
